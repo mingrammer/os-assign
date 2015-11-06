@@ -1,15 +1,21 @@
 
 ### OS Project
-Title : Operating System Project 3
+Title : Operating System Project 3_Synchronization
 
-Project # : The Sleeping Teaching Assistant
+Project # : 1_The Sleeping Teaching Assistant
 
 Description : Manage the students (threads) and helping task
 
+
 ### Compile and Run 
+
 
 ### Structure
 
+
 ### Functions
 
+
 ### Simple process flows
+
+
