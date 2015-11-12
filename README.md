@@ -11,7 +11,7 @@ Description : Manage the students (threads) and helping task
 
 ### Compile and Run 
 1. make
-2. ./temp
+2. ./simulator
 
 ### Structure
 1. student: student threads have own semaphore
